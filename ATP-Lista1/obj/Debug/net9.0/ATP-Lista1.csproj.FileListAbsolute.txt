@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.AssemblyInfo.cs
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\ATP-Lista1\bin\Debug\net9.0\ATP-Lista1.exe
+C:\Users\1442428\Downloads\ATP-Lista1\bin\Debug\net9.0\ATP-Lista1.deps.json
+C:\Users\1442428\Downloads\ATP-Lista1\bin\Debug\net9.0\ATP-Lista1.runtimeconfig.json
+C:\Users\1442428\Downloads\ATP-Lista1\bin\Debug\net9.0\ATP-Lista1.dll
+C:\Users\1442428\Downloads\ATP-Lista1\bin\Debug\net9.0\ATP-Lista1.pdb
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.dll
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\refint\ATP-Lista1.dll
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.pdb
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ATP-Lista1.genruntimeconfig.cache
+C:\Users\1442428\Downloads\ATP-Lista1\obj\Debug\net9.0\ref\ATP-Lista1.dll
